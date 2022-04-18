@@ -9,8 +9,10 @@ Meme Generator which is the second project of the Intermediate Python Nanodegree
 
 ### Flask Web Interface
 
-- Run `python app.py` on the terminal.
-- Access the webpage via this url [http://localhost:5000](http://localhost:5000).
+- Clone the repo with <code>git clone https://github.com/AnimogM/meme-generator.git</code>
+- Use pipenv to create a virtual environment and install the dependencies in the requirements.txt file with <code>pipenv install -r requirements.txt</code>
+- Activate your virtual environment with <code>pipenv shell</code> and Run `python app.py` on the terminal.
+- Click the link to access the app [http://localhost:5000](http://localhost:5000).
 
 ### Command Line Interface
 
